@@ -12,9 +12,9 @@ get_header(); ?>
 <div id="main-content" class="main-content">
 
 	<div id="primary" class="content-area">
-		<section id="content">
+		<section id="content" class="row text-center">
  
-            <div class="content-box">
+            <div class="content-box col-sm-12">
                 <h3>Loads for <?php echo date('m/d/Y'); ?></h3>
             <ul class="list-unstyled" style="padding: 2% 3%;">
 			<?php
